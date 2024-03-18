@@ -122,22 +122,22 @@ const Main = () => {
                     <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>Watches</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>Laptop</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>Keyboard</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>SunGlass</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>LeatherWatch</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>Mouse</p>
                     </div>
-                    <div className='bg-black text-white px-5 py-5 rounded-full drop-shadow-xl'>
+                    <div className='bg-white text-black px-5 py-5 rounded-full drop-shadow-xl'>
                         <p>Monitor</p>
                     </div>
                 </div>
